@@ -1,4 +1,24 @@
-                                 .-..-.
+=======================================About the Project===========================================
+Project Final Beneficiary: Istituto Superior de Ciencias & Tecnologias Alberto Chipande
+Project Supervisor at ISCTAC: Julio Taimira ( Vice-Rector)
+Project Manager & Lead Engineer: Abdul Gafar M. Meque
+Lead UX Engineer: Kayik dellos Guerreroz
+Localization Engineer: Epafroditor Domingos & Abdul Meque
+
+Project Scope
+-Conduct background scoping and research work and finalizing the system
+requirements
+-Customization of Moodle e-learning platform including LMS,
+interactive features, mobile app, dashboard, communication, payment
+supports,etc.
+-Delivery of the final version of the system along with all required
+documentation including source code, user manual and technical
+documentation 
+-Provide required and necessary support & maintenance 
+
+
+=======================================About the Base Code=========================================
+.-..-.
    _____                         | || |
   /____/-.---_  .---.  .---.  .-.| || | .---.
   | |  _   _  |/  _  \/  _  \/  _  || |/  __ \
