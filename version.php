@@ -16,7 +16,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * MOODLE VERSION INFORMATION
+ * MOODLE VERSION INFORMATION.
  *
  * This file defines the current version of the core Moodle code being used.
  * This is compared against the values stored in the database to determine
