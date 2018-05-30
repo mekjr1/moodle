@@ -2,7 +2,7 @@ MOODLE INSTALLATION
 ===================
 
 Here is a short summary of the installation process (which can take just a few
-minutes):
+minutes)::
 
 1. Move the Moodle files into your web directory.
 
